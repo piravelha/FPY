@@ -1,5 +1,7 @@
 # FPY
 
+A minimal, simple functional language that transpiles directly to a python print-statement.
+
 ## Code Snippets
 
 ### Basic Variables
