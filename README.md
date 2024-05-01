@@ -7,7 +7,7 @@
 let x = 1
 x
 ```
-```bash
+```txt
 1
 ```
 
@@ -17,7 +17,7 @@ let x = 1
 let y = 2
 x + y / 4
 ```
-```bash
+```txt
 1.5
 ```
 
@@ -26,7 +26,7 @@ x + y / 4
 let myString = "Hello, "
 myString + "World!"
 ```
-```bash
+```txt
 Hello, World!
 ```
 
@@ -35,6 +35,6 @@ Hello, World!
 let add = &x &y x + y
 add 1 2
 ```
-```bash
+```txt
 3
 ```
