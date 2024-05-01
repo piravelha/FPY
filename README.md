@@ -58,6 +58,7 @@ Generated
 ```python
 print((lambda add: add(1)(2))(lambda x: lambda y: x + y))
 ```
+Output
 ```txt
 3
 ```
